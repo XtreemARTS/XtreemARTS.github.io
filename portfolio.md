@@ -34,8 +34,8 @@ Explore our range of 3D assets, crafted for quality and performance. From sleek 
 ![xtreemarts 2](xtreemarts%202.jpg)  
 _Assets optimized for games._
 
-![Featured Sci-Fi Prop](image-placeholder.jpg)  
-_A sci-fi prop ready to enhance futuristic game worlds._
+![xtreemarts5](xtreemarts5.png)  
+_A police chase vehicle optmised for driving games._
 
 ---
 
