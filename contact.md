@@ -8,12 +8,12 @@ We’d love to hear from you! Whether you have a project in mind, questions abou
 
 ### Get in Touch
 
-- **Email**: [contact@xtreemarts.com](mailto:bwambaleaustine@gmail.com)  
+- **Email**: [bwambaleaustine@gmail.com](mailto:bwambaleaustine@gmail.com)  
   Reach us for any inquiries, collaborations, or support.
 - **Social Media**:  
   - [GitHub](https://XtreemArts.github.io)  
   - [Twitter](https://twitter.com/XtreemArts)
-- **Phone**: +256-77o 848 992  
+- **Phone**: +256-770 848 992  
   Call us during business hours.
 
 ---
