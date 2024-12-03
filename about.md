@@ -25,7 +25,7 @@ Our portfolio includes assets ranging from:
 ---
 
 ### Featured Image
-![About XtreemArts](image-placeholder.jpg)
-_A glimpse into our creative process._
+![xtreemarts 2](xtreemarts%202.jpg)
+_Some of the many assets._
 
 [Explore Our Portfolio](portfolio.md) | [Contact Us](contact.md)
