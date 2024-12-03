@@ -31,7 +31,7 @@ Explore our range of 3D assets, crafted for quality and performance. From sleek 
 ---
 
 ### Portfolio Images
-![xtreemarts 2.jpg](image-placeholder.jpg)  
+![xtreemarts 2](image-placeholder.jpg)  
 _Assets optimized for games._
 
 ![Featured Sci-Fi Prop](image-placeholder.jpg)  
