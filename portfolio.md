@@ -34,7 +34,7 @@ Explore our range of 3D assets, crafted for quality and performance. From sleek 
 ![xtreemarts 2](xtreemarts%202.jpg)  
 _Assets optimized for games._
 
-![xtreemarts5](xtreemarts5.png)  
+![xtreemarts6](xtreemarts6.jpg)  
 _A police chase vehicle optmised for driving games._
 
 ---
