@@ -26,6 +26,6 @@ Our portfolio includes assets ranging from:
 
 ### Featured Image
 ![xtreemarts 1](xtreemarts%201.jpg)
-_Some of the many assets._
+_A glimpse of the many assets._
 
 [Explore Our Portfolio](portfolio.md) | [Contact Us](contact.md)
