@@ -31,10 +31,10 @@ Explore our range of 3D assets, crafted for quality and performance. From sleek 
 ---
 
 ### Portfolio Images
-![xtreemarts 1](xtreemarts%201.j)  
+![xtreemarts 1](xtreemarts%201.jpg)  
 _Assets optimized for games._
 
-![xtreemarts6](War Drone.png)  
+![War Drone](War%20Drone.png)  
 _Get this and many others from the Unity Asset Store._
 
 ---
