@@ -31,11 +31,11 @@ Explore our range of 3D assets, crafted for quality and performance. From sleek 
 ---
 
 ### Portfolio Images
-![xtreemarts 1](xtreemarts%201.jpg)  
+![xtreemarts 1](xtreemarts%201.j)  
 _Assets optimized for games._
 
-![xtreemarts6](xtreemarts6.jpg)  
-_A police chase vehicle optmised for driving games._
+![xtreemarts6](War Drone.png)  
+_Get this and many others from the Unity Asset Store._
 
 ---
 
