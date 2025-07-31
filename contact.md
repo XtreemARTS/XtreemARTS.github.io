@@ -8,7 +8,7 @@ We’d love to hear from you! Whether you have a project in mind, questions abou
 
 ### Get in Touch
 
-- **Email**: [bwambaleaustine@gmail.com](mailto:xtreemarts6@gmail.com)  
+- **Email**: [xtreemarts6@gmail.com](mailto:xtreemarts6@gmail.com)  
   Reach us for any inquiries, collaborations, or support.
 - **Social Media**:  
   - [GitHub](https://XtreemArts.github.io)  
