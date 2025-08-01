@@ -31,7 +31,7 @@ Explore our range of 3D assets, crafted for quality and performance. From sleek 
 ---
 
 ### Portfolio Images
-![635ee346-5207-43f5-9e26-4df1de074e12~2.jpg](635ee346-5207-43f5-9e26-4df1de074e12~2.jpg.jpg)  
+![635ee346-5207-43f5-9e26-4df1de074e12~2.jpg](635ee346-5207-43f5-9e26-4df1de074e12~2.jpg)  
 _Assets optimized for games._
 
 ![War Drone](War%20Drone.png)  
