@@ -34,7 +34,7 @@ Explore our range of 3D assets, crafted for quality and performance. From sleek 
 ![635ee346-5207-43f5-9e26-4df1de074e12~2.jpg](635ee346-5207-43f5-9e26-4df1de074e12~2.jpg)  
 _Assets optimized for games._
 
-![755f35ff-9af4-4b3f-89dd-ae1793d6ee09~2.jpg](755f35ff-9af4-4b3f-89dd-ae1793d6ee09~2.jpg)  
+![Cars.png](Cars.png)  
 _Get this and many others from the Unity Asset Store._
 
 ---
