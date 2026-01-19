@@ -1,6 +1,4 @@
-## Contact
-
-# Contact - XtreemArts
+## Contact - XtreemArts
 
 We’d love to hear from you! Whether you have a project in mind, questions about our assets, or just want to say hello, feel free to reach out.
 
