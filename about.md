@@ -1,6 +1,5 @@
-## About
+# WHO ARE WE
 
-# About XtreemArts
 
 At XtreemArts, we specialize in creating high-quality 3D assets tailored to meet the diverse needs of game developers and digital creators. Our expertise spans a wide range of industries and genres, ensuring that you can find the perfect asset for your next project.
 
