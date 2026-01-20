@@ -25,6 +25,6 @@ Our portfolio includes assets ranging from:
 
 ### Featured Image
 ![xtreemarts 1](ultimaterace.png)
-_Latest release 2025._
+_Latest release 2026._
 
 [Explore Our Portfolio](portfolio.md) | [Contact Us](contact.md)
